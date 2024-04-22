@@ -1,0 +1,72 @@
+.navbar-brand {
+    color: black;
+}
+
+.nav-link {
+    display: block;
+    padding: 0.5rem 4rem;
+    color: #000;
+}
+
+.navbar-expand-lg {
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    background-color: pink;
+}
+
+.rounded {
+    border-radius: 5rem !important;
+    width: 35%;
+    margin-top: 2%;
+}
+
+.image {
+    text-align: center;
+}
+
+
+.contenedor {
+    width: 100%; /* Opcional: ajusta el ancho según tus necesidades */
+    
+}
+  
+.texto-derecha {
+    text-align: right;
+}
+
+.container {
+    margin: auto;
+    text-align: left;
+    
+}
+
+#Acerca-de-mi {
+    background-color: pink;
+}
+
+.bg-info {
+    background-color: rgb(239 186 222) !important;
+}
+
+.row {
+    --bs-gutter-x: 2.5rem;   
+}
+
+.card {
+        min-width: 26em;
+        background-color: #e8dee6;
+        border-radius: .25rem;
+        border: black;
+        border-radius: 8%;
+        text-align: center;
+    }
+
+.card-img, .card-img-bottom, .card-img-top {
+    min-height: 37em;
+    min-width: 26em;
+}
+
+.dos {
+    padding-left: 16%;
+}
+
